@@ -83,3 +83,4 @@
   AppleEpf::Full.get_current_list #=> current full files
 abc
 abc
+abc
